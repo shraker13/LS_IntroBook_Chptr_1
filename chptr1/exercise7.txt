@@ -1,0 +1,8 @@
+Exercise 7
+
+Error message:
+
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+  from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+  
+It appears that the author has tried to close a hash list with a parenthesis rather than a curly brace.
