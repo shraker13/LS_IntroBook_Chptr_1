@@ -1,0 +1,16 @@
+Exercise 3.3 - Expressions
+
+1. x = 2
+The value of the variable x is now the integer value 2. The return value is 2.
+
+2. puts x = 2
+The value of the variable x is now the integer value 2 and 2 is printed to the screen. The return value is nil.
+
+3. p name = "Joe"
+The value of the variable name is now the string value Joe and Joe is printed to the screen. The return value is "Joe".
+
+4. four = "four"
+The value of the variable four is now the string value four. The return value is "four".
+
+5. print something = "nothing"
+The value of the variable something is now the string value nothing and the string nothing is printed to the screen. The return value is nil.
