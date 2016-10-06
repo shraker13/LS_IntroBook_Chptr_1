@@ -1,0 +1,23 @@
+Exercise 4.1 - True or False
+
+1. (32 * 4) >= 129
+
+False. 128 < 129
+
+2. false != !true
+
+False. false does equal not true
+
+3. true == 4
+
+False. true is not equal to 4
+
+4. false == (847 == '874')
+
+True. 847 == '874' is false, so false == false
+
+5. (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false
+   (   |  ||          |       ) || (       |        ) ||   |
+   (false ||         false    ) ||       true         || false 
+
+True. The Boolean or is inclusive (see diagram)
