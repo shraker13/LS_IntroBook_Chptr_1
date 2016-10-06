@@ -1,0 +1,9 @@
+Exeercise 6  - Error diagnosis
+
+The error is:
+
+NameError: undefined local variable or method `shoes' for main:Object
+  from (irb):3
+  from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+  
+To me, it appears that a variable named 'shoes' was declared in an inner scope and then the program tried to access it from an outer scope.

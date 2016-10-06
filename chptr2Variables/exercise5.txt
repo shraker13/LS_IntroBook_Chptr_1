@@ -1,0 +1,5 @@
+Exercise 2.5
+
+At first, I thought the first program would have x = 0, because I assumed the reference in the inner scope wouldn't carry through to the outer scope, but since the x variable is declared in the outer scope, it can be accessed and altered in the inner scope. I was equating declaration and access. Long story short, x=3.
+
+In the second program, x = y is declared within a block. The block has access to y, but there is no x declared in the higher scope, so it can't be accessed based on an inner scope declaration.
