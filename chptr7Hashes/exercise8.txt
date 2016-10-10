@@ -1,0 +1,7 @@
+Exercise 7.8 
+
+What is the most likely cause of this error:
+
+NoMethodError: undefined method `keys' for Array
+
+B. There is no method called keys for Array objects.
