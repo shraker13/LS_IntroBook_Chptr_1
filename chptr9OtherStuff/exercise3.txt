@@ -1,0 +1,3 @@
+Exercise 9.3
+
+Exception handling provides a programmer the ability to accommodate errors arising from interactivity, such as user input. Without exception  handling, such errors would cause a program to crash. With exception handling, the program can perfom a specified operation at the point of the error and then continue running. 
