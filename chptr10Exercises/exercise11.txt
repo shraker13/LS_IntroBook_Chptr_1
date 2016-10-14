@@ -1,0 +1,3 @@
+Exercise 10.11
+
+It might be just because it's what I'm used to, but I like the non-nonsense presentation of ruby-doc.org. I can easily link between methods and classes and get exactly the information I want. It's just Ruby with simple examples.
